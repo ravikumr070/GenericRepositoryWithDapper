@@ -1,0 +1,12 @@
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+E:\ASP.NET Core\GenericRepositoryWithDapper\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
